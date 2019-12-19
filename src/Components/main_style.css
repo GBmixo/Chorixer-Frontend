@@ -1,0 +1,10 @@
+.main-board {
+    position: absolute;
+    top: 5em;
+    left: 10em;
+    border-width: 5px;
+}
+
+body{
+    background: #101026;
+}
