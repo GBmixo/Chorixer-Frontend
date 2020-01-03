@@ -5,9 +5,9 @@ const ConvertToCoords = (num, axis) => {
         //console.log(convert)
         return(convert);
     }else if(axis == "time"){
-        console.log(num)
+        //console.log(num)
         let convert = ((num - 1) * 45) + 15;
-        console.log(convert)
+        //console.log(convert)
         return(convert);
     }
 
